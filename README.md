@@ -2,5 +2,5 @@
 
 Nomes:
 
-João Martinho Schneider da Silva e Souza
+João Martinho Schneider da Silva e Souza  
 Felipe Bona Regis Karmann
